@@ -4,6 +4,10 @@ Slutprojekt programmering 1.
 
 ## Vad
 
+Chess game 
+
+Min plan är att kunna lägga up ett schack spel med pjäser och att pjäserna ska kunna röra sig som vanligt 
+
 Din uppgift är att planera, genomföra och dokumentera ett programmeringsprojekt.
 
 Du får välja projekt själv, det kan vara något helt nytt eller en vidareutveckling av något som du redan gjort. Kravet är 
