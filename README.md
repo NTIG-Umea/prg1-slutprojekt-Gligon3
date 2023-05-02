@@ -40,7 +40,7 @@ ca 10 timmars arbete, det är inte jättemycket tid, så tänk efter hur mycket
 du kommer att göra! 
 
 v.17 planering : Det jag gjorde idag va att kolla igenom vad för koder som kommer funka bäst för mig att göra och bästa sättet att jobba.
-v.18 arbete
+v.18 arbete : Första lektonen så gjorde jag en gui och fixade basen av chess game.
 v.19 arbete
 v.20 arbete
 v.21 buggfix
